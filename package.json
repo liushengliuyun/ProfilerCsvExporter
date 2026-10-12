@@ -1,0 +1,23 @@
+{
+  "name": "com.liushengliuyun.profiler-csv-exporter",
+  "displayName": "Profiler CSV Exporter",
+  "editorExtension": true,
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Export the selected node (or subtree) of the Unity Profiler CPU hierarchy to CSV, with clipboard sync. Original tool - reads Profiler selection via reflection, no external dependencies.",
+  "author": {
+    "name": "liushengliuyun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liushengliuyun/ProfilerCsvExporter.git"
+  },
+  "keywords": [
+    "profiler",
+    "csv",
+    "editor",
+    "performance",
+    "cpu"
+  ],
+  "category": "Editor Extensions"
+}

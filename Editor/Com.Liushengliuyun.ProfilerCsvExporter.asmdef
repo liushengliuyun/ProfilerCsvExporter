@@ -1,0 +1,15 @@
+{
+    "name": "Com.Liushengliuyun.ProfilerCsvExporter",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Profiling.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
